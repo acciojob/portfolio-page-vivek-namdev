@@ -1,2 +1,8 @@
+#image {
+	height: 300px;
+	width:400px;
+}
 
-/* Your CSS Code here. */
+#name {
+	color: greenyellow
+}
